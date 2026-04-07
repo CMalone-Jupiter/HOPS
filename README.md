@@ -1,4 +1,3 @@
-# VPR-HDC-Fuse
 # A Hyperdimensional One Place Signature to Represent Them All: Stackable Descriptors For Visual Place Recognition
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
