@@ -108,7 +108,7 @@ pixi run python main.py --method=cosplace --backbone=VGG16 --descriptors_dimensi
   --database_folder=path/to/reference/images \
   --queries_folder=path/to/query/images
 ```
-Refer to [`VPR-methods-evaluation/feature_generation_configs.sh`](https://github.com/CMalone-Jupiter/HOPS/blob/main/VPR-methods-evaluation/feature_generation_configs.sh) for pre-configured extraction commands across a range of datasets and methods.
+Refer to VPR-methods-evaluation/feature_generation_configs.sh file within this repo for pre-configured extraction commands across a range of datasets and methods.
 
 ## Fuse VPR reference features using HOPS and evaluate them 
 
